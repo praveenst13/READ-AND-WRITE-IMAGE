@@ -61,9 +61,9 @@ import random
 image=cv2.imread("/home/swag/Downloads/images.jpg",1)
 
 for i in range(100):
-    for j in range(im.shape[1]):
+    for j in range(image.shape[1]):
         image[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
-cv2.imshow('212222230030_DHANUMALYA',color_img)
+cv2.imshow('212222240077_Praveens',image)
 cv2.waitKey(0)
 
 ```
