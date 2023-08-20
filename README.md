@@ -88,7 +88,6 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-![dipt](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/40ef5827-fe45-403b-800f-397d8fcea305)
 <br>
 
 
@@ -112,7 +111,6 @@ cv2.waitKey(0)
 
 ### iv)Access rows and columns
 <br>
-![dipt4](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/c0635403-f8f8-4750-afbf-e88c0509dc5e)
 
 
 <br>
