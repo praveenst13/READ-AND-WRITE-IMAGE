@@ -70,6 +70,15 @@ cv2.waitKey(0)
 v) #To cut and paste portion of image
 ```python3
 
+import cv2
+
+image=cv2.imread("/home/swag/Downloads/images.jpg",1)
+
+tag=image[750:802,933:985]
+image[50:102,50:102]=tag
+cv2.imshow('212222240077_Praveens',image)
+cv2.waitKey(0)
+
 
 
 ```
@@ -79,24 +88,41 @@ v) #To cut and paste portion of image
 ### i) Read and display the image
 
 <br>
+![dipt](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/40ef5827-fe45-403b-800f-397d8fcea305)
 <br>
+
 
 ### ii)Write the image
 
 <br>
+
+![dipt2](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/286c2b29-d2fa-480b-a164-cb82360d415e)
+
+
 <br>
 
 ### iii)Shape of the Image
 
 <br>
+
+![dipt3](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/5914e7fe-0ea1-4297-9ccb-cdc38904aede)
+
+
 <br>
 
 ### iv)Access rows and columns
 <br>
-<br>
+![dipt4](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/c0635403-f8f8-4750-afbf-e88c0509dc5e)
 
+
+<br>
 ### v)Cut and paste portion of image
 <br>
+
+![dipt5](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/71488e4d-ad74-4a00-b7b4-52e80eb00990)
+
+
+
 <br>
 
 ## Result:
