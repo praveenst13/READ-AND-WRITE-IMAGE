@@ -88,8 +88,12 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
+
+
+
 ![img](dipt.png)
 <br>
+
 
 
 ### ii)Write the image
@@ -112,6 +116,7 @@ cv2.waitKey(0)
 
 ### iv)Access rows and columns
 <br>
+
 ![img](dipt4.png)
 
 <br>
