@@ -119,9 +119,10 @@ cv2.waitKey(0)
 
 ![img](dipt4.png)
 
-<br>
+
+
 ### v)Cut and paste portion of image
-<br>
+
 
 ![dipt5](https://github.com/praveenst13/READ-AND-WRITE-IMAGE/assets/118787793/71488e4d-ad74-4a00-b7b4-52e80eb00990)
 
